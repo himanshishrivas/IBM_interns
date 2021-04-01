@@ -39,14 +39,14 @@
    This broject is aimed at solving the nuances involved in creating a user authentication end to end with django and also
   shows how to create user profiles using signals 
     <br />
-    <a href="https://github.com/cforcross/User-Authentication-Web-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="https://github.com/cforcross/User-Authentication-Web-App/issues">Report Bug</a>
+    <a href="https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-mains">Report Bug</a>
     ·
-    <a href="https://github.com/cforcross/User-Authentication-Web-App/issues">Request Feature</a>
+    <a href="https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main">Request Feature</a>
   </p>
 </p>
 
@@ -99,7 +99,7 @@ download python
 
 1. Clone the repo
 ```sh
-git clone https://github.com/cforcross/User-Authentication-Web-App.git
+git clone https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main
 ```
 2. Install requirements.txt
 ```sh
@@ -121,7 +121,7 @@ _For more examples, please refer to the [Video demo](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/cforcross/User-Authentication-Web-App/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main for a list of proposed features (and known issues).
 
 
 
@@ -145,46 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
 
-[@twitter_handle](https://twitter.com/chowacross) 
-
-[github](https://github.com/cforcross/User-Authentication-Web-App.git)
-
-
-[linknd](https://www.linkedin.com/in/chowa-cross-4380a858/)
-
-
-[instagram](https://www.instagram.com/chowagroup/)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-i'll begin by acknowledging the amazing guys at python,github and bootstrap,fontawesome the amazing work they do
-* [python](https://www.python.org/)
-* [Django](https://docs.djangoproject.com/en/3.1)
-* [fontawsome](https://fontawesome.com/)
-* [REadmetemplate](https://github.com/othneildrew/Best-README-Template)
-* [ Antonio Mele](https://www.packtpub.com/product/django-3-by-example-third-edition/9781838981952)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/cforcross/repo.svg?style=flat-square
-[contributors-url]: https://github.com/cforcross/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cforcross/repo.svg?style=flat-square
-[forks-url]: https://github.com/cforcross/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/cforcross/repo.svg?style=flat-square
-[stars-url]: https://github.com/cforcross/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cforcross/repo.svg?style=flat-square
-[issues-url]: https://github.com/cforcross/repo/issues
-[license-shield]: https://img.shields.io/github/license/cforcross/repo.svg?style=flat-square
-[license-url]: https://github.com/cforcross/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/cforcross
-[product-screenshot]: images/screenshot.png
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
