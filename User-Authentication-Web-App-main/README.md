@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/cforcross/User-Authentication-Web-App">
+  <a href="https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
@@ -52,20 +52,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -80,7 +66,7 @@
 * django 3.0
 * django-bootstrap4
 * bootstrap4
-* fontawesome
+
 
 
 
@@ -106,43 +92,6 @@ git clone https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authen
 pip install requirements.txt
 ```
 <!-- USAGE EXAMPLES -->
-## Usage
-###### Project Dashboard
-![GitHub Logo](/images/chowacross_2.PNG)
-
-The above showcases the user dashboard after the given user has registerd and sign in, giving him/her the ability to Edit,and change passwords.And the sounds out.This takes
-then to the next page which gives them the ability to sign back into the application and if they can't remember their password,a password forgotten link is availalbe for 
-them to then follow the steps inorde to reset their password
-
-_For more examples, please refer to the [Video demo](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/himanshishrivas/IBM_interns/tree/master/User-Authentication-Web-App-main for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 
